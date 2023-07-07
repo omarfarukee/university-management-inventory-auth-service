@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\.f213385668d6fb4800e54f07243798ab6e27682e-audit.json",
+    "files": [
+        {
+            "date": 1687576912173,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-06-24-09-error.log",
+            "hash": "2805f8997b3fcbf0ee846fb9b29088f93a263fdf295d5c6bb420378c10ef70e8"
+        },
+        {
+            "date": 1687670147284,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-06-25-11-error.log",
+            "hash": "21c3e47a0044556f9031485aa09681023742aefdaef2a01d89e386754fdad04e"
+        },
+        {
+            "date": 1687681366238,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-06-25-14-error.log",
+            "hash": "4b18fff5cdad2169ac03b0fe775dc7f6534b8eda395933b59104804307e096ac"
+        },
+        {
+            "date": 1687686119327,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-06-25-15-error.log",
+            "hash": "6354621b46dd0ea69dcf07928b6520d58abb49a0869d6e876b4d090220c21ccb"
+        },
+        {
+            "date": 1687687233811,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-06-25-16-error.log",
+            "hash": "089e2d7a3453249496a446d816f63a8bccc9a8e9642a05e4d7f2694c125afb92"
+        },
+        {
+            "date": 1688612600196,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-06-09-error.log",
+            "hash": "95d3f7c5c787ed4a8e7125a149ca1e9dbeb3df47c1fc6c1b45b8a306df162ad6"
+        },
+        {
+            "date": 1688631485610,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-06-14-error.log",
+            "hash": "470951072b41de7814b98626990b655ac17d7cf826ec8596bb46f7b85201895c"
+        },
+        {
+            "date": 1688634047195,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-06-15-error.log",
+            "hash": "bf12ef17c369a39865269381265e7867c438f82b7aa772ffb2b1a15b5acf3661"
+        },
+        {
+            "date": 1688637743811,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-06-16-error.log",
+            "hash": "9e2da9b317b6db69c3996bb67425a352c5eede0ae9ac43dfa94024659fbf01f1"
+        },
+        {
+            "date": 1688702905202,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-07-10-error.log",
+            "hash": "d19d21b6c9acb8cfd94af25cc972175a5a921b1c2193142d108acf03a5304fe8"
+        },
+        {
+            "date": 1688707113732,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-07-11-error.log",
+            "hash": "c395642497357411dbd4bba570d0a6151b690897d1f7856c79a60a7c7ef36f4c"
+        },
+        {
+            "date": 1688711235670,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-07-12-error.log",
+            "hash": "5b5ec1a154b2b70f0fa169ae11dd637e7f91a88b491c331efbc2c6ade0d204a1"
+        },
+        {
+            "date": 1688720684674,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\errors\\omar-2023-07-07-15-error.log",
+            "hash": "4675f0f85e587cf115c8bba8c6e45418e030f9f2d6a6fece3a02a041ef11643f"
+        }
+    ],
+    "hashType": "sha256"
+}

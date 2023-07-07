@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\.b0e4f6ce149c21b12795d58dc8521ad316123297-audit.json",
+    "files": [
+        {
+            "date": 1687576912161,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-06-24-09-success.log",
+            "hash": "a56f168175c41c1b3228a0dca0d096f27868a6d8c6b1515f6cb45f9e410ea557"
+        },
+        {
+            "date": 1687670147273,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-06-25-11-success.log",
+            "hash": "2f3e7b73af6d536725ced8433409e37acd89580e23a126c85a6e5c5528f4ea1e"
+        },
+        {
+            "date": 1687681366232,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-06-25-14-success.log",
+            "hash": "dd23bf35f747d4da17d41c2bbc7b614a25ba8323be0cf32ec7e1200a90f0b51d"
+        },
+        {
+            "date": 1687686119322,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-06-25-15-success.log",
+            "hash": "dd8cd65612d97d66adcbb898e2d054744fe7ba1a336a8097b963742063d07567"
+        },
+        {
+            "date": 1687687233803,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-06-25-16-success.log",
+            "hash": "c6cf3de0efc70ad6260851a0a68d489e0238b87dd9cd7536be24fc67d094b4b7"
+        },
+        {
+            "date": 1688612600175,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-06-09-success.log",
+            "hash": "0baacf9aa18114970f9313b17aff82ed7d81a1491dc3feadfa77daa4cf918441"
+        },
+        {
+            "date": 1688631485580,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-06-14-success.log",
+            "hash": "af0f326374ecbc5d40930d2e67c9337c41c3cc53c9583c77698e2fba16838b7a"
+        },
+        {
+            "date": 1688634047189,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-06-15-success.log",
+            "hash": "76608c8a972297320a4d2c6b1ac6e98aa18e1653d6208587c36634b3b13f58c0"
+        },
+        {
+            "date": 1688637743805,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-06-16-success.log",
+            "hash": "28bc82d90c966e3ef82a5dd4af704a81013d682fc8e5489650164ecf271b10a7"
+        },
+        {
+            "date": 1688702905192,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-07-10-success.log",
+            "hash": "2deb913917d54524094d2d8fb810a492de2f0f97055f9d5815c18b51c02d44e9"
+        },
+        {
+            "date": 1688707113722,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-07-11-success.log",
+            "hash": "f628ccfbbde41b4f5e3d0151449d78e4cca6cfaeb50b74efe6b6a7e85ea17fb1"
+        },
+        {
+            "date": 1688711235665,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-07-12-success.log",
+            "hash": "61144e58cc6ba428b8a1942857511f10fcb022a4b9260d251d3955698cc7048e"
+        },
+        {
+            "date": 1688720684661,
+            "name": "H:\\level-2-prac\\university-management-inventory\\logs\\winston\\successes\\omar-2023-07-07-15-success.log",
+            "hash": "ebbe987b2efd3eca13bb7c3da2473bf76e6ee78c6fd351ea2f6a87fd0870b315"
+        }
+    ],
+    "hashType": "sha256"
+}
